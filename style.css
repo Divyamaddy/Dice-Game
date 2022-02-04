@@ -1,0 +1,41 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Comforter', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Quintessential', cursive;
+background: #373B44;
+}
+.container{
+  text-align: center;
+  padding: 30px;
+}
+h1{
+  text-align: center;
+  font-size: 6em;
+  color: #00F260;
+  text-shadow: 3px 3px #b85e58;
+
+}
+.dice{
+  display: inline-block;
+  padding: 40px;
+}
+
+.text{
+  font-size: 2em;
+  padding-bottom: 20px;
+  color: #f5af19;
+}
+.footer .fa{
+  color: red;
+  }
+  .footer{
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    font-weight:bold;
+
+  }
